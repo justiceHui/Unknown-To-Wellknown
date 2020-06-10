@@ -42,7 +42,7 @@
 
 <details markdown="1">
 <summary>문제 목록</summary>
-<a href = "http://icpc.me/13159">BOJ 13159 배열</a>
+<a href = "http://icpc.me/13159">BOJ 13159 배열</a><br>
 <a href = "http://icpc.me/3444">BOJ 3444 Robotic Sort</a><br>
 <a href = "http://icpc.me/16994">BOJ 16994 로프와 쿼리</a>
 </details>
@@ -128,7 +128,7 @@
 
 <details markdown="1">
 <summary>문제 목록</summary>
-<a href = "http://icpc.me/1870">BOJ 18702 Array Queries</a>
+<a href = "http://icpc.me/18702">BOJ 18702 Array Queries</a>
 </details>
 
 ##### DB 만들기
