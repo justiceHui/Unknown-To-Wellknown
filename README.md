@@ -15,9 +15,9 @@
 ### 그들만의 웰논 자료구조 / 알고리즘
 
 ##### Alien Trick
+대표 문제 : <a href = "https://oj.uz/problem/view/IOI16_aliens">IOI 2016 Aliens</a>
 
 <details markdown="1">
-대표 문제 : <a href = "https://oj.uz/problem/view/IOI16_aliens">IOI 2016 Aliens</a><br>
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/16191">BOJ 16191 Utillitarianism</a><br>
 <a href = "http://icpc.me/17439">BOJ 17439 꽃집</a><br>
@@ -44,18 +44,18 @@
 </details>
 
 ##### Splay Tree
+대표 문제 : <a href = "http://icpc.me/13159">BOJ 13159 배열</a>
 
 <details markdown="1">
-대표 문제 : <a href = "http://icpc.me/13159">BOJ 13159 배열</a><br>
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/3444">BOJ 3444 Robotic Sort</a><br>
 <a href = "http://icpc.me/16994">BOJ 16994 로프와 쿼리</a>
 </details>
 
 ##### Link-Cut Tree
+대표 문제 : <a href = "http://icpc.me/13539">BOJ 13539 트리와 쿼리 11</a>
 
 <details markdown="1">
-대표 문제 : <a href = "http://icpc.me/13539">BOJ 13539 트리와 쿼리 11</a><br>
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/18861">BOJ 18861 가슴 속에 무엇인가</a><br>
 <a href = "http://icpc.me/10724">BOJ 10724 판게아 2</a><br>
@@ -63,9 +63,9 @@
 </details>
 
 ##### Offline Incremental SCC
+대표 문제 : <a href = "http://icpc.me/8496">BOJ 8496 Godzilla</a>
 
 <details markdown="1">
-대표 문제 : <a href = "http://icpc.me/8496">BOJ 8496 Godzilla</a><br>
 <summary>연습 문제 목록</summary>
 <a href = "http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2992">Jungol 3643 유명한 소 2</a>
 </details>
@@ -84,9 +84,9 @@
 ### 그들만의 웰논 문제 유형
 
 ##### Monster Hunter/Escape 유형
+대표 문제 : <a href = "http://icpc.me/9539">BOJ 9539 Escape</a>
 
 <details markdown="1">
-대표 문제 : <a href = "http://icpc.me/9539">BOJ 9539 Escape</a><br>
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/18596">BOJ 18596 Monster Hunter</a><br>
 <a href = "http://icpc.me/17590">BOJ 17590 Prospecting</a><br>
@@ -95,9 +95,9 @@
 </details>
 
 ##### KOI 고압선/JOIOC Bulldozer 유형 (Lotating Sweep Line?)
+대표 문제 : <a href = "http://icpc.me/16783">BOJ 16783 Bulldozer</a>
 
 <details markdown="1">
-대표 문제 : <a href = "http://icpc.me/16783">BOJ 16783 Bulldozer</a><br>
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/17625">BOJ 17625 고압선</a><br>
 <a href = "http://icpc.me/3121">BOJ 3121 빨간점, 파란점</a><br>
