@@ -1,11 +1,13 @@
 # 나빼고 다 아는 그들만의 웰논 테크닉 모음
 
 ### 목표
+
 * 고인물의 대화를 이해하자
 * 나도 아는 척 해보자
 * 랭작좀 해보자
 
 ### TODO
+
 * 각 주제별 설명글 링크 달기
 * 각 주제별 설명 [내 블로그](https://justicehui.github.io)에 올리기
 * 연습 문제 풀이 올리기
@@ -15,6 +17,7 @@
 ### 그들만의 웰논 자료구조 / 알고리즘
 
 ##### Alien Trick
+
 대표 문제 : <a href = "https://oj.uz/problem/view/IOI16_aliens">IOI 2016 Aliens</a>
 
 <details markdown="1">
@@ -44,6 +47,7 @@
 </details>
 
 ##### Splay Tree
+
 대표 문제 : <a href = "http://icpc.me/13159">BOJ 13159 배열</a>
 
 <details markdown="1">
@@ -53,6 +57,7 @@
 </details>
 
 ##### Link-Cut Tree
+
 대표 문제 : <a href = "http://icpc.me/13539">BOJ 13539 트리와 쿼리 11</a>
 
 <details markdown="1">
@@ -63,6 +68,7 @@
 </details>
 
 ##### Offline Incremental SCC
+
 대표 문제 : <a href = "http://icpc.me/8496">BOJ 8496 Godzilla</a>
 
 <details markdown="1">
@@ -79,11 +85,22 @@
 <a href = "http://icpc.me/17442">BOJ 17442 삼분 그래프</a>
 </details>
 
+##### Segment Tree Beats
+
+대표 문제 : [BOJ 17474 수열과 쿼리 26](http://icpc.me/17474)
+
+<details markdown="1">
+<summary>연습 문제 목록</summary>
+<a href = "http://icpc.me/17476">BOJ 17476 수열과 쿼리 28</a><br>
+<a href = "http://icpc.me/17473">BOJ 17473 수열과 쿼리 25</a>
+</details>
+
 
 
 ### 그들만의 웰논 문제 유형
 
 ##### Monster Hunter/Escape 유형
+
 대표 문제 : <a href = "http://icpc.me/9539">BOJ 9539 Escape</a>
 
 <details markdown="1">
@@ -95,6 +112,7 @@
 </details>
 
 ##### KOI 고압선/JOIOC Bulldozer 유형 (Lotating Sweep Line?)
+
 대표 문제 : <a href = "http://icpc.me/16783">BOJ 16783 Bulldozer</a>
 
 <details markdown="1">
