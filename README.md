@@ -111,7 +111,7 @@
 <a href = "https://atcoder.jp/contests/agc023/tasks/agc023_f">AGC 023 F 01 on tree</a>
 </details>
 
-##### KOI 고압선/JOIOC Bulldozer 유형 (Lotating Sweep Line?)
+##### KOI 고압선/JOIOC Bulldozer 유형 (Rotating Sweep Line?)
 
 대표 문제 : <a href = "http://icpc.me/16783">BOJ 16783 Bulldozer</a>
 
