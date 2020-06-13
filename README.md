@@ -18,7 +18,7 @@
 
 ##### Alien Trick
 
-대표 문제 : <a href = "https://oj.uz/problem/view/IOI16_aliens">IOI 2016 Aliens</a>
+[Tutorial]( https://koosaga.com/243 )<br>대표 문제 : <a href = "https://oj.uz/problem/view/IOI16_aliens">IOI 2016 Aliens</a>
 
 <details markdown="1">
 <summary>연습 문제 목록</summary>
@@ -30,6 +30,8 @@
 
 ##### Berlekamp-Massey
 
+[Tutorial]( https://koosaga.com/231 )
+
 <details markdown="1">
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/12916">BOJ 12916 K-Path</a><br>
@@ -40,6 +42,8 @@
 
 ##### Slope Trick
 
+[Tutorial]( https://jwvg0425-ps.tistory.com/98 )
+
 <details markdown="1">
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/13323">BOJ13323 BOJ 수열 1</a><br>
@@ -48,7 +52,7 @@
 
 ##### Splay Tree
 
-대표 문제 : <a href = "http://icpc.me/13159">BOJ 13159 배열</a>
+[Tutorial]( https://cubelover.tistory.com/10 )<br>대표 문제 : <a href = "http://icpc.me/13159">BOJ 13159 배열</a>
 
 <details markdown="1">
 <summary>연습 문제 목록</summary>
@@ -57,6 +61,8 @@
 </details>
 
 ##### Link-Cut Tree
+
+[Tutorial](https://imeimi.tistory.com/category/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Link%20Cut%20Tree)
 
 대표 문제 : <a href = "http://icpc.me/13539">BOJ 13539 트리와 쿼리 11</a>
 
@@ -78,6 +84,8 @@
 
 ##### Dual of Planar Graph
 
+[Tutorial]( https://algoshitpo.github.io/2020/03/23/dual/ )
+
 <details markdown="1">
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/15308">BOJ 15308 비밀 요원</a><br>
@@ -87,12 +95,24 @@
 
 ##### Segment Tree Beats
 
-대표 문제 : [BOJ 17474 수열과 쿼리 26](http://icpc.me/17474)
+[Tutorial]( https://www.secmem.org/blog/2019/10/19/Segment-Tree-Beats/ )<br>대표 문제 : [BOJ 17474 수열과 쿼리 26](http://icpc.me/17474)
 
 <details markdown="1">
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/17476">BOJ 17476 수열과 쿼리 28</a><br>
 <a href = "http://icpc.me/17473">BOJ 17473 수열과 쿼리 25</a>
+</details>
+
+##### Mobius Inversion
+
+[Tutorial](https://ahgus89.github.io/algorithm/M%C3%B6bius-inversion/)
+
+<details markdown="1">
+<summary>연습 문제 목록</summary>
+<a href = "http://icpc.me/11691">BOJ 11691 LCM(i, j)</a><br>
+<a href = "http://icpc.me/14860">BOJ 14860 GCD 곱</a><br>
+<a href = "http://icpc.me/14861">BOJ 14861 LCM 더하기</a><br>
+<a href = "http://icpc.me/16409">BOJ 16409 Coprime Integers</a>
 </details>
 
 
@@ -161,10 +181,12 @@
 
 ##### Fast IO
 
+[Tutorial](https://cgiosy.github.io/posts/c-c-%EC%9D%98-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EB%B0%A9%EC%8B%9D-%EC%A0%95%EB%A6%AC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-fast-io)
+
 <details markdown="1">
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/11921">BOJ 11921 0.1</a><br>
-<a href = "http://icpc.me/18702">BOJ 18702 Array Queries</a>
+<a href = "http://icpc.me/18702">BOJ 18702 Array Queries (수열과 쿼리 28 + FastIO)</a>
 </details>
 
 ##### DB 만들기
@@ -174,6 +196,10 @@
 ##### SIMD
 
 ##### Barrett Reduction (모듈러 최적화)
+
+##### Mo's Algorithm with Hilbert Curve
+
+[Tutorial]( https://tamref.com/97 )
 
 
 
