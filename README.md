@@ -139,7 +139,7 @@
 <a href = "http://icpc.me/18190">BOJ 18190 촛불과 그림자</a>
 </details>
 
-##### 쿼리 버킷질 (Mo's 아님)
+##### 쿼리를 √N(혹은 √Q)개씩 묶어서 처리하는 유형
 
 <details markdown="1">
 <summary>연습 문제 목록</summary>
