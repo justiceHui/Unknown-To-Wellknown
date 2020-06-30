@@ -24,6 +24,7 @@
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/16191">BOJ 16191 Utillitarianism</a><br>
 <a href = "http://icpc.me/17439">BOJ 17439 꽃집</a><br>
+<a href = "http://icpc.me/17046">BOJ 17046 Akvizna</a><br>
 <a href = "https://codeup.kr/problem.php?id=2790">CodeUp 2790 비트 빠개기</a><br>
 <a href = "https://codeforces.com/contest/1279/problem/F">Edu CF 79 F</a>
 </details>
@@ -110,7 +111,6 @@
 <details markdown="1">
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/11691">BOJ 11691 LCM(i, j)</a><br>
-<a href = "http://icpc.me/14860">BOJ 14860 GCD 곱</a><br>
 <a href = "http://icpc.me/14861">BOJ 14861 LCM 더하기</a><br>
 <a href = "http://icpc.me/16409">BOJ 16409 Coprime Integers</a>
 </details>
