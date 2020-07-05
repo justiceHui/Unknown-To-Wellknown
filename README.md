@@ -181,7 +181,7 @@
 
 ##### Fast IO
 
-[Tutorial](https://cgiosy.github.io/posts/c-c-%EC%9D%98-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EB%B0%A9%EC%8B%9D-%EC%A0%95%EB%A6%AC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-fast-io)
+[Tutorial](https://cgiosy.github.io/posts/fast-io)
 
 <details markdown="1">
 <summary>연습 문제 목록</summary>
