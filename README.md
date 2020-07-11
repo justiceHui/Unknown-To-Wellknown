@@ -94,6 +94,13 @@
 <a href = "http://icpc.me/17442">BOJ 17442 삼분 그래프</a>
 </details>
 
+##### Tree Compression
+
+<details markdown="1">
+<summary>연습 문제 목록</summary>
+<a href = "http://icpc.me/11933">BOJ 11933 공장들</a><br>
+</details>
+
 ##### Segment Tree Beats
 
 [Tutorial]( https://www.secmem.org/blog/2019/10/19/Segment-Tree-Beats/ )<br>대표 문제 : [BOJ 17474 수열과 쿼리 26](http://icpc.me/17474)
