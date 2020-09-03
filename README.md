@@ -24,7 +24,6 @@
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/16191">BOJ 16191 Utillitarianism</a><br>
 <a href = "http://icpc.me/17439">BOJ 17439 꽃집</a><br>
-<a href = "http://icpc.me/17046">BOJ 17046 Akvizna</a><br>
 <a href = "https://codeup.kr/problem.php?id=2790">CodeUp 2790 비트 빠개기</a><br>
 <a href = "https://codeforces.com/contest/1279/problem/F">Edu CF 79 F</a>
 </details>
@@ -92,13 +91,7 @@
 <a href = "http://icpc.me/15308">BOJ 15308 비밀 요원</a><br>
 <a href = "http://icpc.me/13145">BOJ 13145 Masonry Bridge</a><br>
 <a href = "http://icpc.me/17442">BOJ 17442 삼분 그래프</a>
-</details>
-
-##### Tree Compression
-
-<details markdown="1">
-<summary>연습 문제 목록</summary>
-<a href = "http://icpc.me/11933">BOJ 11933 공장들</a><br>
+<a href = "http://icpc.me/18941">BOJ 18941 평면그래프와 게임</a>
 </details>
 
 ##### Segment Tree Beats
@@ -118,6 +111,7 @@
 <details markdown="1">
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/11691">BOJ 11691 LCM(i, j)</a><br>
+<a href = "http://icpc.me/14860">BOJ 14860 GCD 곱</a><br>
 <a href = "http://icpc.me/14861">BOJ 14861 LCM 더하기</a><br>
 <a href = "http://icpc.me/16409">BOJ 16409 Coprime Integers</a>
 </details>
@@ -156,6 +150,7 @@
 <a href = "http://icpc.me/18193">BOJ 18193 비행기 타고 가요</a><br>
 <a href = "https://atcoder.jp/contests/arc069/tasks/arc069_d">ARC 069 F flags</a><br>
 <a href = "http://icpc.me/8274">BOJ 8274 Journeys</a>
+<a href = "http://icpc.me/18362">BOJ 18362 Desert</a>
 </details>
 
 ##### 볼록 다각형의 접선을 이용해 최대/최소를 구하는 유형
@@ -188,7 +183,7 @@
 
 ##### Fast IO
 
-[Tutorial](https://cgiosy.github.io/posts/fast-io)
+[Tutorial](https://cgiosy.github.io/posts/c-c-%EC%9D%98-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EB%B0%A9%EC%8B%9D-%EC%A0%95%EB%A6%AC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-fast-io)
 
 <details markdown="1">
 <summary>연습 문제 목록</summary>
