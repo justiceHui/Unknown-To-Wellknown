@@ -90,8 +90,8 @@
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/15308">BOJ 15308 비밀 요원</a><br>
 <a href = "http://icpc.me/13145">BOJ 13145 Masonry Bridge</a><br>
-<a href = "http://icpc.me/17442">BOJ 17442 삼분 그래프</a>
-<a href = "http://icpc.me/18941">BOJ 18941 평면그래프와 게임</a>
+<a href = "http://icpc.me/17442">BOJ 17442 삼분 그래프</a><br>
+<a href = "http://icpc.me/18941">BOJ 18941 평면그래프와 게임</a><br>
 </details>
 
 ##### Segment Tree Beats
@@ -149,8 +149,8 @@
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/18193">BOJ 18193 비행기 타고 가요</a><br>
 <a href = "https://atcoder.jp/contests/arc069/tasks/arc069_d">ARC 069 F flags</a><br>
-<a href = "http://icpc.me/8274">BOJ 8274 Journeys</a>
-<a href = "http://icpc.me/18362">BOJ 18362 Desert</a>
+<a href = "http://icpc.me/8274">BOJ 8274 Journeys</a><br>
+<a href = "http://icpc.me/18362">BOJ 18362 Desert</a><br>
 </details>
 
 ##### 볼록 다각형의 접선을 이용해 최대/최소를 구하는 유형
