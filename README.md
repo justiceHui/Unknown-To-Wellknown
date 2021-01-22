@@ -18,7 +18,8 @@
 
 ##### Alien Trick
 
-[Tutorial]( https://koosaga.com/243 )<br>대표 문제 : <a href = "https://oj.uz/problem/view/IOI16_aliens">IOI 2016 Aliens</a>
+[Tutorial]( https://koosaga.com/243 )<br>
+대표 문제 : <a href = "https://oj.uz/problem/view/IOI16_aliens">IOI 2016 Aliens</a>
 
 <details markdown="1">
 <summary>연습 문제 목록</summary>
@@ -52,7 +53,8 @@
 
 ##### Splay Tree
 
-[Tutorial]( https://cubelover.tistory.com/10 )<br>대표 문제 : <a href = "http://icpc.me/13159">BOJ 13159 배열</a>
+[Tutorial]( https://cubelover.tistory.com/10 )<br>
+대표 문제 : <a href = "http://icpc.me/13159">BOJ 13159 배열</a>
 
 <details markdown="1">
 <summary>연습 문제 목록</summary>
@@ -96,7 +98,8 @@
 
 ##### Segment Tree Beats
 
-[Tutorial]( https://www.secmem.org/blog/2019/10/19/Segment-Tree-Beats/ )<br>대표 문제 : [BOJ 17474 수열과 쿼리 26](http://icpc.me/17474)
+[Tutorial]( https://www.secmem.org/blog/2019/10/19/Segment-Tree-Beats/ )<br>
+대표 문제 : [BOJ 17474 수열과 쿼리 26](http://icpc.me/17474)
 
 <details markdown="1">
 <summary>연습 문제 목록</summary>
@@ -145,6 +148,8 @@
 
 ##### 세그먼트 트리를 이용해 그래프 간선의 개수를 줄이는 유형
 
+[Tutorial](https://justicehui.github.io/tutorial/2020/09/05/graph-with-segment-tree/)
+
 <details markdown="1">
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/18193">BOJ 18193 비행기 타고 가요</a><br>
@@ -176,14 +181,17 @@
 
 ##### Bitset을 이용한 최적화
 
+[Tutorial](https://codeforces.com/blog/entry/73558)
+
 <details markdown="1">
 <summary>연습 문제 목록</summary>
+<a href = "http://icpc.me/20501">BOJ 20501 Facebook</a>
 <a href = "http://icpc.me/18439">BOJ 18439 LCS 6</a>
 </details>
 
 ##### Fast IO
 
-[Tutorial](https://cgiosy.github.io/posts/c-c-%EC%9D%98-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EB%B0%A9%EC%8B%9D-%EC%A0%95%EB%A6%AC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-fast-io)
+[Tutorial](https://cgiosy.github.io/posts/fast-io)
 
 <details markdown="1">
 <summary>연습 문제 목록</summary>
