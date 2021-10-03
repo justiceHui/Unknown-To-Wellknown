@@ -12,8 +12,6 @@
 * 각 주제별 설명 [내 블로그](https://justicehui.github.io)에 올리기
 * 연습 문제 풀이 올리기
 
-
-
 ### 그들만의 웰논 자료구조 / 알고리즘
 
 ##### Alien Trick
@@ -29,6 +27,7 @@
 <a href = "https://codeforces.com/contest/1279/problem/F">Edu CF 79 F</a>
 </details>
 
+
 ##### Berlekamp-Massey
 
 [Tutorial]( https://koosaga.com/231 )
@@ -41,6 +40,7 @@
 <a href = "http://icpc.me/13727">BOJ 13727 5차원 구사과 초콜릿</a>
 </details>
 
+
 ##### Slope Trick
 
 [Tutorial]( https://jwvg0425-ps.tistory.com/98 )
@@ -50,6 +50,7 @@
 <a href = "http://icpc.me/13323">BOJ13323 BOJ 수열 1</a><br>
 <a href = "http://icpc.me/12736">BOJ 12736 Fireworks</a>
 </details>
+
 
 ##### Splay Tree
 
@@ -61,6 +62,7 @@
 <a href = "http://icpc.me/3444">BOJ 3444 Robotic Sort</a><br>
 <a href = "http://icpc.me/16994">BOJ 16994 로프와 쿼리</a>
 </details>
+
 
 ##### Link-Cut Tree
 
@@ -77,12 +79,16 @@
 
 ##### Offline Incremental SCC
 
+[Tutorial](https://www.secmem.org/blog/2021/03/21/offline-incremental-SCC/)
+
 대표 문제 : <a href = "http://icpc.me/8496">BOJ 8496 Godzilla</a>
 
 <details markdown="1">
 <summary>연습 문제 목록</summary>
-<a href = "http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2992">Jungol 3643 유명한 소 2</a>
+<a href = "http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2992">Jungol 3643 유명한 소 2</a><br>
+<a href = "https://www.acmicpc.net/problem/19028">BOJ 19028 Link Cut Diagraph</a>
 </details>
+
 
 ##### Dual of Planar Graph
 
@@ -96,6 +102,7 @@
 <a href = "http://icpc.me/18941">BOJ 18941 평면그래프와 게임</a><br>
 </details>
 
+
 ##### Segment Tree Beats
 
 [Tutorial]( https://www.secmem.org/blog/2019/10/19/Segment-Tree-Beats/ )<br>
@@ -106,6 +113,12 @@
 <a href = "http://icpc.me/17476">BOJ 17476 수열과 쿼리 28</a><br>
 <a href = "http://icpc.me/17473">BOJ 17473 수열과 쿼리 25</a>
 </details>
+
+##### FFT / Kitamasa / Mutipoint Evaluation
+
+[FFT Tutorial](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming) / [Kitamasa Tutorial](https://justicehui.github.io/hard-algorithm/2021/03/13/kitamasa/) / [Polynomial Division & Multipoint Evaluation Tutorial](https://www.secmem.org/blog/2019/06/16/Multipoint-evaluation/)
+
+대표 문제 : [BOJ 13725 RNG](https://www.acmicpc.net/problem/13725) / [BOJ 18168 Game with Polynomials 2](https://www.acmicpc.net/problem/18168)
 
 ##### Mobius Inversion
 
@@ -119,7 +132,19 @@
 <a href = "http://icpc.me/16409">BOJ 16409 Coprime Integers</a>
 </details>
 
+##### Matroid
 
+[Matroid Tutorial](http://www.secmem.org/blog/2019/05/15/introduction-to-matroid/) / [Matroid Intersection Tutorial](https://www.secmem.org/blog/2019/06/17/Matroid-Intersection/)
+
+대표 문제 : [BOJ 16046 Rainbow Graph](https://www.acmicpc.net/problem/16046)
+
+<details markdown="1">
+<summary>연습 문제 목록</summary>
+<a href = "http://icpc.me/18517">BOJ 18517 Pick Your Own Nim</a><br>
+<a href = "http://icpc.me/18890">BOJ 18890 Seollal</a><br>
+<a href = "http://icpc.me/14861">BOJ 21727 아즈텍의 섬</a><br>
+<a href = "http://icpc.me/16409">BOJ 23052 두 트리</a> - Matroid Partitioning
+</details>
 
 ### 그들만의 웰논 문제 유형
 
@@ -135,6 +160,7 @@
 <a href = "https://atcoder.jp/contests/agc023/tasks/agc023_f">AGC 023 F 01 on tree</a>
 </details>
 
+
 ##### KOI 고압선/JOIOC Bulldozer 유형 (Rotating Sweep Line?)
 
 대표 문제 : <a href = "http://icpc.me/16783">BOJ 16783 Bulldozer</a>
@@ -143,8 +169,10 @@
 <summary>연습 문제 목록</summary>
 <a href = "http://icpc.me/17625">BOJ 17625 고압선</a><br>
 <a href = "http://icpc.me/3121">BOJ 3121 빨간점, 파란점</a><br>
-<a href = "http://icpc.me/9484">BOJ 9484 최대삼각형, 최소삼각형</a>
+<a href = "http://icpc.me/9484">BOJ 9484 최대삼각형, 최소삼각형</a><br>
+<a href = "https://www.acmicpc.net/problem/17973">BOJ 17973 Quadrilaterals</a>
 </details>
+
 
 ##### 세그먼트 트리를 이용해 그래프 간선의 개수를 줄이는 유형
 
@@ -158,6 +186,7 @@
 <a href = "http://icpc.me/18362">BOJ 18362 Desert</a><br>
 </details>
 
+
 ##### 볼록 다각형의 접선을 이용해 최대/최소를 구하는 유형
 
 <details markdown="1">
@@ -165,6 +194,7 @@
 <a href = "http://icpc.me/5257">BOJ 5257 timeismoney</a><br>
 <a href = "http://icpc.me/18190">BOJ 18190 촛불과 그림자</a>
 </details>
+
 
 ##### 쿼리를 √N(혹은 √Q)개씩 묶어서 처리하는 유형
 
@@ -174,9 +204,6 @@
 <a href = "http://icpc.me/13516">BOJ 13516 트리와 쿼리 7</a>
 </details>
 
-
-
-
 ### 그들만의 이상한 최적화
 
 ##### Bitset을 이용한 최적화
@@ -185,9 +212,10 @@
 
 <details markdown="1">
 <summary>연습 문제 목록</summary>
-<a href = "http://icpc.me/20501">BOJ 20501 Facebook</a>
+<a href = "http://icpc.me/20501">BOJ 20501 Facebook</a><br>
 <a href = "http://icpc.me/18439">BOJ 18439 LCS 6</a>
 </details>
+
 
 ##### Fast IO
 
@@ -198,6 +226,7 @@
 <a href = "http://icpc.me/11921">BOJ 11921 0.1</a><br>
 <a href = "http://icpc.me/18702">BOJ 18702 Array Queries (수열과 쿼리 28 + FastIO)</a>
 </details>
+
 
 ##### DB 만들기
 
@@ -210,8 +239,6 @@
 ##### Mo's Algorithm with Hilbert Curve
 
 [Tutorial]( https://tamref.com/97 )
-
-
 
 
 ### 그들만의 이상한 밈
