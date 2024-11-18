@@ -516,6 +516,8 @@
 ### 트리 위에서 exchange argument
 
 * 튜토리얼
+  * (한글) [koosaga](https://koosaga.com/349)
+  * (일본어) [maspy](https://maspypy.com/01-on-tree-%e4%ba%ac%e9%83%bd%e8%a6%b3%e5%85%89-train-seats)
 * 연습 문제
   * [BOJ 9539 Escape](https://www.acmicpc.net/problem/9539)
   * [BOJ 18596 Monster Hunter](https://www.acmicpc.net/problem/18596)
